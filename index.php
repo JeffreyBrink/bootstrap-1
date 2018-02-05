@@ -30,7 +30,7 @@
 						</p>
 					</div>
 
-					One of three columns1
+
 				</div>
 
 					<div class="col">
@@ -48,51 +48,51 @@
 
 						</p>
 					</div>
-					One of three columns2
+
 				</div>
 				<div class="col">
 					<nav class="navbar navbar-light bg-light justify-content-between">
 						<a class="navbar-brand">Title</a>
 
 					</nav>
-					<div class="jumbotron">
-						<img src="dude,png" class="img-rounded" alt="some dude">
-						<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+					<div>
+						<img src="stress.jpg" class="img-rounded" alt="stressed jeff">
+						<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu congue metus, id egestas mauris. Curabitur feugiat aliquam est sed rhoncus. Maecenas varius ligula at leo laoreet hendrerit. </p>
 
-						<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+						<p>Etiam blandit pellentesque vulputate. Morbi egestas eget turpis at placerat. Phasellus vel justo vel mi egestas finibus quis sit amet tellus. Donec odio metus, viverra ut neque sed,</p>
 						<p class="lead">
-							<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+
 						</p>
 					</div>
-					One of three columns3
+
 				</div>
 			</div>
 			<div class="row align-items-center">
 
 				<div class="col">
 
-					One of three columns4
+
 				</div>
 				<div class="col">
 
 
-					One of three columns5
+
 				</div>
 				<div class="col">
-					One of three columns6
+
 				</div>
 			</div>
 			<div class="row align-items-end">
 				<div class="col">
-					One of three columns7
+
 				</div>
 				<div class="col">
 
 
-					One of three columns8
+
 				</div>
 				<div class="col">
-					One of three columns9
+
 				</div>
 			</div>
 		</div>
