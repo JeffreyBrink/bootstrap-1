@@ -59,7 +59,7 @@
 						<img src="stress.jpg" class="img-rounded" alt="stressed jeff">
 						<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu congue metus, id egestas mauris. Curabitur feugiat aliquam est sed rhoncus. Maecenas varius ligula at leo laoreet hendrerit. </p>
 
-						<p>Etiam blandit pellentesque vulputate. Morbi egestas eget turpis at placerat. Phasellus vel justo vel mi egestas finibus quis sit amet tellus. Donec odio metus, viverra ut neque sed,</p>
+						<p>Etiam blanditation pellentesque vulputate. Morbi egestas eget turpis at placerat. Phasellus vel justo vel mi egestas finibus quis sit amet tellus. Donec odio metus, viverra ut neque sed,</p>
 						<p class="lead">
 
 						</p>
