@@ -31,7 +31,9 @@
 			<div class="container">
 				<div class="jumbotron py-2 my-5">
 					<i class="fas fa-user"></i>
-					<img src="test1.jpg" class="figure-img img-fluid rounded-circle" alt="front end test">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="..."></iframe>
+					</div>
 					<i class="far fa-user"></i>
 					<h1 class="display-3"><strong>Hello, world!</strong></h1>
 					<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
