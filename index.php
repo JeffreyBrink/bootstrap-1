@@ -32,7 +32,7 @@
 				<div class="jumbotron py-2 my-5">
 					<i class="fas fa-user"></i>
 					<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" src="..."></iframe>
+						<iframe class="embed-responsive-item" src="Nebula Closing"></iframe>
 					</div>
 					<i class="far fa-user"></i>
 					<h1 class="display-3"><strong>Hello, world!</strong></h1>
