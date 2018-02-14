@@ -25,24 +25,27 @@
 			<title>Bootstrap Challenge</title>
 		</head>
 		<!--Navbar-->
-		<body>
+		<body >
 
 			<!--Jumbotron-->
-			<div class="container">
-				<div class="jumbotron py-2 my-5">
-					<i class="fas fa-user"></i>
-					<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" src="Nebula Closing"></iframe>
+			<div class="container"
+
+			<div class="fullscreen-bg">
+				<video loop muted autoplay poster="nebula.mp4" class="fullscreen-bg__video">
+					<source src="nebula.mp4" type="video/webm">
+					<source src="nebula.mp4" type="video/mp4">
+					<source src="nebula.mp4" type="video/ogg">
+				</video>
+			</div>
 					</div>
-					<i class="far fa-user"></i>
 					<h1 class="display-3"><strong>Hello, world!</strong></h1>
 					<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
 					<p class="lead">
 						<a class="btn btn-primary btn-md" href="#" role="button">Learn more</a>
 					</p>
-				</div>
+
 				<!--Image with text inline-->
-			</div>
+
 			<div class="container-fluid">
 				<div class="media d-flex flex-column flex-sm-row">
 					<img class="img-fluid align-self-center p-5" src="03.jpg" alt="cat-1">
