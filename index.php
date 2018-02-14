@@ -30,13 +30,11 @@
 			<!--Jumbotron-->
 			<div class="container"
 
-			<div class="fullscreen-bg">
-				<video loop muted autoplay poster="nebula.mp4" class="fullscreen-bg__video">
-					<source src="nebula.mp4" type="video/webm">
-					<source src="nebula.mp4" type="video/mp4">
-					<source src="nebula.mp4" type="video/ogg">
-				</video>
-			</div>
+
+			<!--  Video is muted & autoplays, placed after major DOM elements for performance & has an image fallback  -->
+			<video autoplay loop id="video-background" muted plays-inline>
+				<source src="https://player.vimeo.com/external/158148793.hd.mp4?s=8e8741dbee251d5c35a759718d4b0976fbf38b6f&profile_id=119&oauth2_token_id=57447761" type="video/mp4">
+			</video>
 					</div>
 					<h1 class="display-3"><strong>Hello, world!</strong></h1>
 					<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
